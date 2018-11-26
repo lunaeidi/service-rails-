@@ -1,5 +1,7 @@
 {
   "name": "service-rails-",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "react-on-rails": "11.1.8"
+  }
 }
